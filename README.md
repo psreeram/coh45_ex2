@@ -22,4 +22,4 @@ Ex 2C: Solution: THis is addressed in the python file userinput.py<br>
 
 
 Video of Ex 2C : User input given as square and then turtlebot moving in a square<br>
-![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+![Watch the video]((https://github.com/psreeram/coh45_ex2/blob/main/Screen%20Recording%202024-08-08%20140143.mp4))
