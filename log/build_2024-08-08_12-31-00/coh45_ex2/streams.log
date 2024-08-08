@@ -1,0 +1,27 @@
+[0.565s] Invoking command in '/root/ros_rblabs_coh45_ex2/src/coh45_ex2': PYTHONPATH=/root/ros_rblabs_coh45_ex2/build/coh45_ex2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_rblabs_coh45_ex2/install/coh45_ex2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/coh45_ex2 build --build-base /root/ros_rblabs_coh45_ex2/build/coh45_ex2/build install --record /root/ros_rblabs_coh45_ex2/build/coh45_ex2/install.log --single-version-externally-managed install_data
+[0.733s] running egg_info
+[0.734s] writing ../../build/coh45_ex2/coh45_ex2.egg-info/PKG-INFO
+[0.734s] writing dependency_links to ../../build/coh45_ex2/coh45_ex2.egg-info/dependency_links.txt
+[0.734s] writing entry points to ../../build/coh45_ex2/coh45_ex2.egg-info/entry_points.txt
+[0.735s] writing requirements to ../../build/coh45_ex2/coh45_ex2.egg-info/requires.txt
+[0.735s] writing top-level names to ../../build/coh45_ex2/coh45_ex2.egg-info/top_level.txt
+[0.737s] reading manifest file '../../build/coh45_ex2/coh45_ex2.egg-info/SOURCES.txt'
+[0.738s] writing manifest file '../../build/coh45_ex2/coh45_ex2.egg-info/SOURCES.txt'
+[0.738s] running build
+[0.738s] running build_py
+[0.739s] running install
+[0.739s] running install_lib
+[0.741s] running install_data
+[0.741s] creating /root/ros_rblabs_coh45_ex2/install/coh45_ex2/share/coh45_ex2/launch
+[0.741s] running install_egg_info
+[0.742s] removing '/root/ros_rblabs_coh45_ex2/install/coh45_ex2/lib/python3.10/site-packages/coh45_ex2-0.0.0-py3.10.egg-info' (and everything under it)
+[0.743s] Copying ../../build/coh45_ex2/coh45_ex2.egg-info to /root/ros_rblabs_coh45_ex2/install/coh45_ex2/lib/python3.10/site-packages/coh45_ex2-0.0.0-py3.10.egg-info
+[0.744s] running install_scripts
+[0.759s] Installing square_turtle_closed script to /root/ros_rblabs_coh45_ex2/install/coh45_ex2/lib/coh45_ex2
+[0.760s] Installing turtlesim_node_1 script to /root/ros_rblabs_coh45_ex2/install/coh45_ex2/lib/coh45_ex2
+[0.760s] Installing turtlesim_node_draw_circle script to /root/ros_rblabs_coh45_ex2/install/coh45_ex2/lib/coh45_ex2
+[0.760s] Installing turtlesim_node_square_move script to /root/ros_rblabs_coh45_ex2/install/coh45_ex2/lib/coh45_ex2
+[0.760s] Installing turtlesim_node_triangle_move script to /root/ros_rblabs_coh45_ex2/install/coh45_ex2/lib/coh45_ex2
+[0.760s] Installing user_input_node script to /root/ros_rblabs_coh45_ex2/install/coh45_ex2/lib/coh45_ex2
+[0.761s] writing list of installed files to '/root/ros_rblabs_coh45_ex2/build/coh45_ex2/install.log'
+[0.780s] Invoked command in '/root/ros_rblabs_coh45_ex2/src/coh45_ex2' returned '0': PYTHONPATH=/root/ros_rblabs_coh45_ex2/build/coh45_ex2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_rblabs_coh45_ex2/install/coh45_ex2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/coh45_ex2 build --build-base /root/ros_rblabs_coh45_ex2/build/coh45_ex2/build install --record /root/ros_rblabs_coh45_ex2/build/coh45_ex2/install.log --single-version-externally-managed install_data

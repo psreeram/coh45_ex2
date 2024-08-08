@@ -1,0 +1,8 @@
+[console_scripts]
+square_turtle_closed = coh45_ex2.turtlesim_square_move_closed3:main
+turtlesim_node_1 = coh45_ex2.turtlesim_move:main
+turtlesim_node_draw_circle = coh45_ex2.turtlesim_circle_move:main
+turtlesim_node_square_move = coh45_ex2.turtlesim_square_move:main
+turtlesim_node_triangle_move = coh45_ex2.turtlesim_triangle_move:main
+user_input_node = coh45_ex2.userinput:main
+
