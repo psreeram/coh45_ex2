@@ -21,5 +21,5 @@ Ex 2C: Solution: THis is addressed in the python file userinput.py<br>
 - currently launch file is not working.
 
 
-Video of Ex 2C : User input given as square and then turtlebot moving in a square
-
+Video of Ex 2C : User input given as square and then turtlebot moving in a square<br>
+![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
